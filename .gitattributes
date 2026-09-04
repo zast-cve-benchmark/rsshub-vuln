@@ -1,0 +1,3 @@
+
+# Ignore .zast directory in archives
+.zast/ export-ignore
